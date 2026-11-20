@@ -6,11 +6,6 @@ Objeto Virtual de Aprendizaje de Telemática (Ingeniería de Sistemas, Universid
 **Docente:** Richard Crawford V.
 **Herramientas:** HTML, CSS y JavaScript (sin dependencias)
 
-## Cómo ejecutarlo
-1. Descarga o clona el repositorio.
-2. Abre `index.html` en cualquier navegador moderno. No requiere instalación ni internet.
-
-Si se publica en un sitio estático (por ejemplo, Pages del repositorio), la carpeta raíz debe contener `index.html`.
 
 ## Contenido
 - Inicio, 6 unidades con guías interactivas y cuestionarios (30 preguntas)
